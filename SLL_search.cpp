@@ -115,3 +115,29 @@ int SLL::search(int x)
 	return 0;
 }
 
+***********************************
+output:
+
+Enter List
+
+ Enter number of nodes : 5
+
+ Enter data : 100
+
+ Enter data : 450
+
+ Enter data : 122
+
+ Enter data : 66
+
+ Enter data : 744
+
+Showing List:-
+
+100 450 122 66 744
+
+Enter Number to search : 200
+
+ **Not Found**
+--------------------------------
+
